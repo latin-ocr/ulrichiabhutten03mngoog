@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ulrichiabhutten03mngoog_0310.png"; bbox 0 0 2860 4732; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 565 1379 725 1512">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 565 1379 725 1512">
+     <span class='ocr_line' id='line_1_1' title="bbox 565 1379 725 1512; baseline 0.025 -4"><span class='ocrx_word' id='word_1_1' title='bbox 565 1379 725 1512; x_wconf 78' lang='lat' dir='ltr'><strong>xxm.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 343 1730 934 1812">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 343 1730 934 1812">
+     <span class='ocr_line' id='line_1_2' title="bbox 343 1730 934 1812; baseline 0.017 -10"><span class='ocrx_word' id='word_1_2' title='bbox 343 1730 564 1804; x_wconf 89' lang='lat' dir='ltr'><strong>Ulrichi</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 615 1731 675 1804; x_wconf 84' lang='lat' dir='ltr'><strong>de</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 725 1733 934 1812; x_wconf 83' lang='lat' dir='ltr'><strong>Hutten</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 209 1935 1060 2092">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 209 1935 1060 2096">
+     <span class='ocr_line' id='line_1_3' title="bbox 209 1935 1060 2092; baseline -0.007 -9"><span class='ocrx_word' id='word_1_5' title='bbox 209 1935 679 2092; x_wconf 57' lang='lat' dir='ltr'><strong>&#39;OTTlxss</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 751 1943 1060 2078; x_wconf 38' lang='lat' dir='ltr'>Nem⁸0.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 604 2271 673 2316">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 604 2271 673 2316">
+     <span class='ocr_line' id='line_1_4' title="bbox 604 2271 673 2316; baseline -0.029 0"><span class='ocrx_word' id='word_1_7' title='bbox 604 2271 673 2316; x_wconf 77' lang='lat' dir='ltr'><strong>seu</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 390 2480 882 2562">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 390 2480 882 2562">
+     <span class='ocr_line' id='line_1_5' title="bbox 390 2480 882 2562; baseline 0.006 -3"><span class='ocrx_word' id='word_1_8' title='bbox 390 2487 531 2562; x_wconf 90' lang='lat' dir='ltr'><strong>Nemo</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 567 2480 882 2562; x_wconf 75' lang='lat' dir='ltr'>reviviscens.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 521 2825 745 2868">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 521 2825 745 2868">
+     <span class='ocr_line' id='line_1_6' title="bbox 521 2825 745 2868; baseline 0.004 -12"><span class='ocrx_word' id='word_1_10' title='bbox 521 2825 745 2868; x_wconf 59' lang='lat' dir='ltr'><strong>mmm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 0 0 1434 4732">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 0 0 1434 4732">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1434 4732; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1434 4732; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
